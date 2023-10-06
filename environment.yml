@@ -1,0 +1,9 @@
+name: ag-tutorial
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - nb_conda_kernels
+  - pip:
+    - agraph-python

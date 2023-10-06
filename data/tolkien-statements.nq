@@ -1,0 +1,13 @@
+<http://franz.com/being1> <http://franz.com/friendOf> <http://franz.com/being2> .
+<http://franz.com/being1> <http://franz.com/name> "Frodo" .
+<http://franz.com/being2> <http://franz.com/name> "Gandalf" .
+<http://franz.com/being1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://franz.com/Hobbit> .
+<http://franz.com/being2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://franz.com/Wizard> .
+<http://franz.com/being1> <http://www.w3.org/2000/01/rdf-schema#label> "Frodo" .
+<http://franz.com/being2> <http://www.w3.org/2000/01/rdf-schema#label> "Gandalf" .
+<http://franz.com/being1> <http://franz.com/age> "50"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://franz.com/being1> <http://franz.com/weight> "1.005E2"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://franz.com/being1> <http://franz.com/dob> "1994-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://franz.com/being2> <http://franz.com/age> "2000"^^<http://www.w3.org/2001/XMLSchema#int> <http://franz.com/Tolkien> .
+<http://franz.com/being2> <http://franz.com/hasRing> <http://franz.com/ring1> .
+<http://franz.com/ring1> <http://franz.com/ringName> "Narya" .

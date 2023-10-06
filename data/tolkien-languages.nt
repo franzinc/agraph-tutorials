@@ -1,0 +1,210 @@
+<https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://franz.com/example-taxonomy/lotr-languages/9837a883-4390-442c-8063-4976bb67234c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/7602d400-02a1-410d-b008-c93c00018bb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/7f6f4ea8-53d4-45ec-b784-e23010d23b02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/8589a10e-53e8-4f7a-992a-d5b624e5d596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/a9f9f3c5-bd75-42ff-bd93-763296540bb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/f2da3add-10bf-4adb-b182-0c6e568b16dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/82cb2481-faaf-4f5f-8e1a-3772b805180d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/a26c04d0-b58a-4944-8742-a4ba58b00edf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/e4f00d6b-bd74-4a58-b49a-9c111c5b1ca1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/711e8200-2c27-4a77-a0c8-89e87da2a0cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/ed0b1aba-c6ef-47c6-b345-3df61a3cbdf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/6f563122-6566-4b90-9e75-c6e11a3b85e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/13458670-f4ee-43b1-97d4-2e5f07680e37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/ebb58747-6d9e-421e-afeb-90a99e9ff9c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/6970c0a1-11bc-401c-b7e3-ce370cae6101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/d9e87fca-4716-493c-8761-267afe99e464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/ab600421-ea04-428b-b1c6-b9c3405e7089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/c09f83ff-2277-498d-af3a-637c758fdc31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/cd5f442f-a521-4742-9807-dc8ed4e68893> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/0bc231b1-3f6b-4589-9024-14cc3ae4928b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/24b23271-fa90-4c0c-aac8-f89c112e6f75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/96063831-58a4-4a56-82e5-1e85e9353823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/8d3f97cc-b630-4015-9c4d-7a2b4bdd2984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/3301a638-bef1-4037-a2f4-210ed78197aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/b058f37f-c747-4bc1-83c1-1104afc24455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/d508b345-37b6-42b4-ac0d-5120b56bdb6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/a35400b2-312b-4e66-956b-fbeb56c40b0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/bb253802-5a8a-43b6-acf5-ffe66ee20cc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/33ddf90b-bcbd-4358-9649-bf5d3646f4d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/a86641f6-1982-4f79-8802-ca4b97dbb576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/52144508-0522-45b8-8bb2-57399d408182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/ed800cc0-7cd2-42d6-b7ca-ddc752ed9497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> <http://purl.org/dc/terms/title> "Tolkien Languages"@en .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://purl.org/dc/terms/title> "Elvish Languages"@en .
+<https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> <http://purl.org/dc/terms/created> "2023-07-30T23:14:05.004Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/9837a883-4390-442c-8063-4976bb67234c> <http://purl.org/dc/terms/created> "2023-07-30T23:14:15.593Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/7602d400-02a1-410d-b008-c93c00018bb9> <http://purl.org/dc/terms/created> "2023-07-30T23:14:47.082Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/7f6f4ea8-53d4-45ec-b784-e23010d23b02> <http://purl.org/dc/terms/created> "2023-07-30T23:14:53.864Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> <http://purl.org/dc/terms/created> "2023-07-30T23:15:06.511Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> <http://purl.org/dc/terms/created> "2023-07-30T23:15:11.869Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/8589a10e-53e8-4f7a-992a-d5b624e5d596> <http://purl.org/dc/terms/created> "2023-07-30T23:15:30.221Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/a9f9f3c5-bd75-42ff-bd93-763296540bb8> <http://purl.org/dc/terms/created> "2023-07-30T23:15:44.599Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/f2da3add-10bf-4adb-b182-0c6e568b16dc> <http://purl.org/dc/terms/created> "2023-07-30T23:15:53.715Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/82cb2481-faaf-4f5f-8e1a-3772b805180d> <http://purl.org/dc/terms/created> "2023-07-30T23:16:01.403Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/a26c04d0-b58a-4944-8742-a4ba58b00edf> <http://purl.org/dc/terms/created> "2023-07-30T23:16:11.505Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> <http://purl.org/dc/terms/created> "2023-07-30T23:16:22.507Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/e4f00d6b-bd74-4a58-b49a-9c111c5b1ca1> <http://purl.org/dc/terms/created> "2023-07-30T23:17:40.395Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/711e8200-2c27-4a77-a0c8-89e87da2a0cb> <http://purl.org/dc/terms/created> "2023-07-30T23:17:48.517Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/ed0b1aba-c6ef-47c6-b345-3df61a3cbdf4> <http://purl.org/dc/terms/created> "2023-07-30T23:18:00.903Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/6f563122-6566-4b90-9e75-c6e11a3b85e1> <http://purl.org/dc/terms/created> "2023-07-30T23:18:07.800Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/13458670-f4ee-43b1-97d4-2e5f07680e37> <http://purl.org/dc/terms/created> "2023-07-30T23:18:14.109Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/ebb58747-6d9e-421e-afeb-90a99e9ff9c5> <http://purl.org/dc/terms/created> "2023-07-30T23:18:34.227Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/6970c0a1-11bc-401c-b7e3-ce370cae6101> <http://purl.org/dc/terms/created> "2023-07-30T23:18:43.900Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/d9e87fca-4716-493c-8761-267afe99e464> <http://purl.org/dc/terms/created> "2023-07-30T23:18:51.929Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/ab600421-ea04-428b-b1c6-b9c3405e7089> <http://purl.org/dc/terms/created> "2023-07-30T23:19:01.187Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/c09f83ff-2277-498d-af3a-637c758fdc31> <http://purl.org/dc/terms/created> "2023-07-30T23:19:22.931Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/cd5f442f-a521-4742-9807-dc8ed4e68893> <http://purl.org/dc/terms/created> "2023-07-30T23:19:29.506Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/0bc231b1-3f6b-4589-9024-14cc3ae4928b> <http://purl.org/dc/terms/created> "2023-07-30T23:19:37.318Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/24b23271-fa90-4c0c-aac8-f89c112e6f75> <http://purl.org/dc/terms/created> "2023-07-30T23:19:49.741Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/96063831-58a4-4a56-82e5-1e85e9353823> <http://purl.org/dc/terms/created> "2023-07-30T23:20:03.493Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/8d3f97cc-b630-4015-9c4d-7a2b4bdd2984> <http://purl.org/dc/terms/created> "2023-07-30T23:20:19.943Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/3301a638-bef1-4037-a2f4-210ed78197aa> <http://purl.org/dc/terms/created> "2023-07-30T23:20:30.030Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/b058f37f-c747-4bc1-83c1-1104afc24455> <http://purl.org/dc/terms/created> "2023-07-30T23:20:36.553Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/d508b345-37b6-42b4-ac0d-5120b56bdb6a> <http://purl.org/dc/terms/created> "2023-07-30T23:20:46.104Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/a35400b2-312b-4e66-956b-fbeb56c40b0a> <http://purl.org/dc/terms/created> "2023-07-30T23:20:53.872Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/bb253802-5a8a-43b6-acf5-ffe66ee20cc7> <http://purl.org/dc/terms/created> "2023-07-30T23:21:07.636Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/33ddf90b-bcbd-4358-9649-bf5d3646f4d5> <http://purl.org/dc/terms/created> "2023-07-30T23:21:15.206Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/a86641f6-1982-4f79-8802-ca4b97dbb576> <http://purl.org/dc/terms/created> "2023-07-30T23:21:21.308Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/52144508-0522-45b8-8bb2-57399d408182> <http://purl.org/dc/terms/created> "2023-07-30T23:21:33.052Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/ed800cc0-7cd2-42d6-b7ca-ddc752ed9497> <http://purl.org/dc/terms/created> "2023-07-30T23:21:42.807Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://purl.org/dc/terms/created> "2023-07-31T20:02:54.864Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/9837a883-4390-442c-8063-4976bb67234c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elvish Languages"@en .
+<https://franz.com/example-taxonomy/lotr-languages/7602d400-02a1-410d-b008-c93c00018bb9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Avarin"@en .
+<https://franz.com/example-taxonomy/lotr-languages/7f6f4ea8-53d4-45ec-b784-e23010d23b02> <http://www.w3.org/2004/02/skos/core#prefLabel> "Common Eldarin"@en .
+<https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quenya"@en .
+<https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> <http://www.w3.org/2004/02/skos/core#prefLabel> "Common Telerin"@en .
+<https://franz.com/example-taxonomy/lotr-languages/8589a10e-53e8-4f7a-992a-d5b624e5d596> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vanyarin Quenya"@en .
+<https://franz.com/example-taxonomy/lotr-languages/a9f9f3c5-bd75-42ff-bd93-763296540bb8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ñoldorin Quenya"@en .
+<https://franz.com/example-taxonomy/lotr-languages/f2da3add-10bf-4adb-b182-0c6e568b16dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telerin of Valinor"@en .
+<https://franz.com/example-taxonomy/lotr-languages/82cb2481-faaf-4f5f-8e1a-3772b805180d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sindarin"@en .
+<https://franz.com/example-taxonomy/lotr-languages/a26c04d0-b58a-4944-8742-a4ba58b00edf> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nandorin Languages"@en .
+<https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mannish Languages"@en .
+<https://franz.com/example-taxonomy/lotr-languages/e4f00d6b-bd74-4a58-b49a-9c111c5b1ca1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Languages of Forefathers of the First and Third Houses of Atanatári"@en .
+<https://franz.com/example-taxonomy/lotr-languages/711e8200-2c27-4a77-a0c8-89e87da2a0cb> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taliska"@en .
+<https://franz.com/example-taxonomy/lotr-languages/ed0b1aba-c6ef-47c6-b345-3df61a3cbdf4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adûnic"@en .
+<https://franz.com/example-taxonomy/lotr-languages/6f563122-6566-4b90-9e75-c6e11a3b85e1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Westron"@en .
+<https://franz.com/example-taxonomy/lotr-languages/13458670-f4ee-43b1-97d4-2e5f07680e37> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hobbitish"@en .
+<https://franz.com/example-taxonomy/lotr-languages/ebb58747-6d9e-421e-afeb-90a99e9ff9c5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Languages of Men of Eriador during the Second Age"@en .
+<https://franz.com/example-taxonomy/lotr-languages/6970c0a1-11bc-401c-b7e3-ce370cae6101> <http://www.w3.org/2004/02/skos/core#prefLabel> "Languages of Northmen"@en .
+<https://franz.com/example-taxonomy/lotr-languages/d9e87fca-4716-493c-8761-267afe99e464> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dalish"@en .
+<https://franz.com/example-taxonomy/lotr-languages/ab600421-ea04-428b-b1c6-b9c3405e7089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rohirric"@en .
+<https://franz.com/example-taxonomy/lotr-languages/c09f83ff-2277-498d-af3a-637c758fdc31> <http://www.w3.org/2004/02/skos/core#prefLabel> "Language of the Forefathers of the Second House of the Atanatari"@en .
+<https://franz.com/example-taxonomy/lotr-languages/cd5f442f-a521-4742-9807-dc8ed4e68893> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haladin"@en .
+<https://franz.com/example-taxonomy/lotr-languages/0bc231b1-3f6b-4589-9024-14cc3ae4928b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dunlending"@en .
+<https://franz.com/example-taxonomy/lotr-languages/24b23271-fa90-4c0c-aac8-f89c112e6f75> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drûg Languages"@en .
+<https://franz.com/example-taxonomy/lotr-languages/96063831-58a4-4a56-82e5-1e85e9353823> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drúedain of Brethil"@en .
+<https://franz.com/example-taxonomy/lotr-languages/8d3f97cc-b630-4015-9c4d-7a2b4bdd2984> <http://www.w3.org/2004/02/skos/core#prefLabel> "Woses of Drúdan Forest"@en .
+<https://franz.com/example-taxonomy/lotr-languages/3301a638-bef1-4037-a2f4-210ed78197aa> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haradrim Languages"@en .
+<https://franz.com/example-taxonomy/lotr-languages/b058f37f-c747-4bc1-83c1-1104afc24455> <http://www.w3.org/2004/02/skos/core#prefLabel> "Easterlings"@en .
+<https://franz.com/example-taxonomy/lotr-languages/d508b345-37b6-42b4-ac0d-5120b56bdb6a> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tongue of Dwarves"@en .
+<https://franz.com/example-taxonomy/lotr-languages/a35400b2-312b-4e66-956b-fbeb56c40b0a> <http://www.w3.org/2004/02/skos/core#prefLabel> "Khuzdul"@en .
+<https://franz.com/example-taxonomy/lotr-languages/bb253802-5a8a-43b6-acf5-ffe66ee20cc7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Languages of the Ents"@en .
+<https://franz.com/example-taxonomy/lotr-languages/33ddf90b-bcbd-4358-9649-bf5d3646f4d5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Old Entish"@en .
+<https://franz.com/example-taxonomy/lotr-languages/a86641f6-1982-4f79-8802-ca4b97dbb576> <http://www.w3.org/2004/02/skos/core#prefLabel> "New Entish"@en .
+<https://franz.com/example-taxonomy/lotr-languages/52144508-0522-45b8-8bb2-57399d408182> <http://www.w3.org/2004/02/skos/core#prefLabel> "Languages of the Ainur"@en .
+<https://franz.com/example-taxonomy/lotr-languages/ed800cc0-7cd2-42d6-b7ca-ddc752ed9497> <http://www.w3.org/2004/02/skos/core#prefLabel> "Valarin"@en .
+<https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://franz.com/example-taxonomy/lotr-languages/9837a883-4390-442c-8063-4976bb67234c> .
+<https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> .
+<https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://franz.com/example-taxonomy/lotr-languages/d508b345-37b6-42b4-ac0d-5120b56bdb6a> .
+<https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://franz.com/example-taxonomy/lotr-languages/bb253802-5a8a-43b6-acf5-ffe66ee20cc7> .
+<https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://franz.com/example-taxonomy/lotr-languages/52144508-0522-45b8-8bb2-57399d408182> .
+<https://franz.com/example-taxonomy/lotr-languages/9837a883-4390-442c-8063-4976bb67234c> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> .
+<https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> .
+<https://franz.com/example-taxonomy/lotr-languages/d508b345-37b6-42b4-ac0d-5120b56bdb6a> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> .
+<https://franz.com/example-taxonomy/lotr-languages/bb253802-5a8a-43b6-acf5-ffe66ee20cc7> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> .
+<https://franz.com/example-taxonomy/lotr-languages/52144508-0522-45b8-8bb2-57399d408182> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://franz.com/example-taxonomy/lotr-languages/c5afe16d-b5d6-4f3e-9480-02af7de045f1> .
+<https://franz.com/example-taxonomy/lotr-languages/7602d400-02a1-410d-b008-c93c00018bb9> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/9837a883-4390-442c-8063-4976bb67234c> .
+<https://franz.com/example-taxonomy/lotr-languages/7f6f4ea8-53d4-45ec-b784-e23010d23b02> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/9837a883-4390-442c-8063-4976bb67234c> .
+<https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/7f6f4ea8-53d4-45ec-b784-e23010d23b02> .
+<https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/7f6f4ea8-53d4-45ec-b784-e23010d23b02> .
+<https://franz.com/example-taxonomy/lotr-languages/8589a10e-53e8-4f7a-992a-d5b624e5d596> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> .
+<https://franz.com/example-taxonomy/lotr-languages/a9f9f3c5-bd75-42ff-bd93-763296540bb8> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> .
+<https://franz.com/example-taxonomy/lotr-languages/f2da3add-10bf-4adb-b182-0c6e568b16dc> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> .
+<https://franz.com/example-taxonomy/lotr-languages/82cb2481-faaf-4f5f-8e1a-3772b805180d> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> .
+<https://franz.com/example-taxonomy/lotr-languages/a26c04d0-b58a-4944-8742-a4ba58b00edf> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> .
+<https://franz.com/example-taxonomy/lotr-languages/e4f00d6b-bd74-4a58-b49a-9c111c5b1ca1> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> .
+<https://franz.com/example-taxonomy/lotr-languages/711e8200-2c27-4a77-a0c8-89e87da2a0cb> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/e4f00d6b-bd74-4a58-b49a-9c111c5b1ca1> .
+<https://franz.com/example-taxonomy/lotr-languages/ed0b1aba-c6ef-47c6-b345-3df61a3cbdf4> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/711e8200-2c27-4a77-a0c8-89e87da2a0cb> .
+<https://franz.com/example-taxonomy/lotr-languages/6f563122-6566-4b90-9e75-c6e11a3b85e1> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/ed0b1aba-c6ef-47c6-b345-3df61a3cbdf4> .
+<https://franz.com/example-taxonomy/lotr-languages/13458670-f4ee-43b1-97d4-2e5f07680e37> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/6f563122-6566-4b90-9e75-c6e11a3b85e1> .
+<https://franz.com/example-taxonomy/lotr-languages/ebb58747-6d9e-421e-afeb-90a99e9ff9c5> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/e4f00d6b-bd74-4a58-b49a-9c111c5b1ca1> .
+<https://franz.com/example-taxonomy/lotr-languages/6970c0a1-11bc-401c-b7e3-ce370cae6101> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/e4f00d6b-bd74-4a58-b49a-9c111c5b1ca1> .
+<https://franz.com/example-taxonomy/lotr-languages/d9e87fca-4716-493c-8761-267afe99e464> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/6970c0a1-11bc-401c-b7e3-ce370cae6101> .
+<https://franz.com/example-taxonomy/lotr-languages/ab600421-ea04-428b-b1c6-b9c3405e7089> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/6970c0a1-11bc-401c-b7e3-ce370cae6101> .
+<https://franz.com/example-taxonomy/lotr-languages/c09f83ff-2277-498d-af3a-637c758fdc31> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> .
+<https://franz.com/example-taxonomy/lotr-languages/cd5f442f-a521-4742-9807-dc8ed4e68893> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/c09f83ff-2277-498d-af3a-637c758fdc31> .
+<https://franz.com/example-taxonomy/lotr-languages/0bc231b1-3f6b-4589-9024-14cc3ae4928b> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/c09f83ff-2277-498d-af3a-637c758fdc31> .
+<https://franz.com/example-taxonomy/lotr-languages/24b23271-fa90-4c0c-aac8-f89c112e6f75> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> .
+<https://franz.com/example-taxonomy/lotr-languages/96063831-58a4-4a56-82e5-1e85e9353823> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/24b23271-fa90-4c0c-aac8-f89c112e6f75> .
+<https://franz.com/example-taxonomy/lotr-languages/8d3f97cc-b630-4015-9c4d-7a2b4bdd2984> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/24b23271-fa90-4c0c-aac8-f89c112e6f75> .
+<https://franz.com/example-taxonomy/lotr-languages/3301a638-bef1-4037-a2f4-210ed78197aa> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> .
+<https://franz.com/example-taxonomy/lotr-languages/b058f37f-c747-4bc1-83c1-1104afc24455> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> .
+<https://franz.com/example-taxonomy/lotr-languages/a35400b2-312b-4e66-956b-fbeb56c40b0a> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/d508b345-37b6-42b4-ac0d-5120b56bdb6a> .
+<https://franz.com/example-taxonomy/lotr-languages/33ddf90b-bcbd-4358-9649-bf5d3646f4d5> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/bb253802-5a8a-43b6-acf5-ffe66ee20cc7> .
+<https://franz.com/example-taxonomy/lotr-languages/a86641f6-1982-4f79-8802-ca4b97dbb576> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/bb253802-5a8a-43b6-acf5-ffe66ee20cc7> .
+<https://franz.com/example-taxonomy/lotr-languages/ed800cc0-7cd2-42d6-b7ca-ddc752ed9497> <http://www.w3.org/2004/02/skos/core#broader> <https://franz.com/example-taxonomy/lotr-languages/52144508-0522-45b8-8bb2-57399d408182> .
+<https://franz.com/example-taxonomy/lotr-languages/9837a883-4390-442c-8063-4976bb67234c> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/7602d400-02a1-410d-b008-c93c00018bb9> .
+<https://franz.com/example-taxonomy/lotr-languages/9837a883-4390-442c-8063-4976bb67234c> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/7f6f4ea8-53d4-45ec-b784-e23010d23b02> .
+<https://franz.com/example-taxonomy/lotr-languages/7f6f4ea8-53d4-45ec-b784-e23010d23b02> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> .
+<https://franz.com/example-taxonomy/lotr-languages/7f6f4ea8-53d4-45ec-b784-e23010d23b02> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> .
+<https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/8589a10e-53e8-4f7a-992a-d5b624e5d596> .
+<https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/a9f9f3c5-bd75-42ff-bd93-763296540bb8> .
+<https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/f2da3add-10bf-4adb-b182-0c6e568b16dc> .
+<https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/82cb2481-faaf-4f5f-8e1a-3772b805180d> .
+<https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/a26c04d0-b58a-4944-8742-a4ba58b00edf> .
+<https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/e4f00d6b-bd74-4a58-b49a-9c111c5b1ca1> .
+<https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/c09f83ff-2277-498d-af3a-637c758fdc31> .
+<https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/24b23271-fa90-4c0c-aac8-f89c112e6f75> .
+<https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/3301a638-bef1-4037-a2f4-210ed78197aa> .
+<https://franz.com/example-taxonomy/lotr-languages/388d31fb-9419-49ac-8da3-35ff05495f91> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/b058f37f-c747-4bc1-83c1-1104afc24455> .
+<https://franz.com/example-taxonomy/lotr-languages/e4f00d6b-bd74-4a58-b49a-9c111c5b1ca1> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/711e8200-2c27-4a77-a0c8-89e87da2a0cb> .
+<https://franz.com/example-taxonomy/lotr-languages/e4f00d6b-bd74-4a58-b49a-9c111c5b1ca1> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/ebb58747-6d9e-421e-afeb-90a99e9ff9c5> .
+<https://franz.com/example-taxonomy/lotr-languages/e4f00d6b-bd74-4a58-b49a-9c111c5b1ca1> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/6970c0a1-11bc-401c-b7e3-ce370cae6101> .
+<https://franz.com/example-taxonomy/lotr-languages/711e8200-2c27-4a77-a0c8-89e87da2a0cb> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/ed0b1aba-c6ef-47c6-b345-3df61a3cbdf4> .
+<https://franz.com/example-taxonomy/lotr-languages/ed0b1aba-c6ef-47c6-b345-3df61a3cbdf4> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/6f563122-6566-4b90-9e75-c6e11a3b85e1> .
+<https://franz.com/example-taxonomy/lotr-languages/6f563122-6566-4b90-9e75-c6e11a3b85e1> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/13458670-f4ee-43b1-97d4-2e5f07680e37> .
+<https://franz.com/example-taxonomy/lotr-languages/6970c0a1-11bc-401c-b7e3-ce370cae6101> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/d9e87fca-4716-493c-8761-267afe99e464> .
+<https://franz.com/example-taxonomy/lotr-languages/6970c0a1-11bc-401c-b7e3-ce370cae6101> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/ab600421-ea04-428b-b1c6-b9c3405e7089> .
+<https://franz.com/example-taxonomy/lotr-languages/c09f83ff-2277-498d-af3a-637c758fdc31> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/cd5f442f-a521-4742-9807-dc8ed4e68893> .
+<https://franz.com/example-taxonomy/lotr-languages/c09f83ff-2277-498d-af3a-637c758fdc31> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/0bc231b1-3f6b-4589-9024-14cc3ae4928b> .
+<https://franz.com/example-taxonomy/lotr-languages/24b23271-fa90-4c0c-aac8-f89c112e6f75> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/96063831-58a4-4a56-82e5-1e85e9353823> .
+<https://franz.com/example-taxonomy/lotr-languages/24b23271-fa90-4c0c-aac8-f89c112e6f75> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/8d3f97cc-b630-4015-9c4d-7a2b4bdd2984> .
+<https://franz.com/example-taxonomy/lotr-languages/d508b345-37b6-42b4-ac0d-5120b56bdb6a> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/a35400b2-312b-4e66-956b-fbeb56c40b0a> .
+<https://franz.com/example-taxonomy/lotr-languages/bb253802-5a8a-43b6-acf5-ffe66ee20cc7> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/33ddf90b-bcbd-4358-9649-bf5d3646f4d5> .
+<https://franz.com/example-taxonomy/lotr-languages/bb253802-5a8a-43b6-acf5-ffe66ee20cc7> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/a86641f6-1982-4f79-8802-ca4b97dbb576> .
+<https://franz.com/example-taxonomy/lotr-languages/52144508-0522-45b8-8bb2-57399d408182> <http://www.w3.org/2004/02/skos/core#narrower> <https://franz.com/example-taxonomy/lotr-languages/ed800cc0-7cd2-42d6-b7ca-ddc752ed9497> .
+<https://franz.com/example-taxonomy/lotr-languages/7602d400-02a1-410d-b008-c93c00018bb9> <http://purl.org/dc/terms/contributor> <https://allegrograph.poolparty.biz/user/jans> .
+<https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> <http://purl.org/dc/terms/contributor> <https://allegrograph.poolparty.biz/user/jans> .
+<https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> <http://purl.org/dc/terms/contributor> <https://allegrograph.poolparty.biz/user/jans> .
+<https://franz.com/example-taxonomy/lotr-languages/8589a10e-53e8-4f7a-992a-d5b624e5d596> <http://purl.org/dc/terms/contributor> <https://allegrograph.poolparty.biz/user/jans> .
+<https://franz.com/example-taxonomy/lotr-languages/a9f9f3c5-bd75-42ff-bd93-763296540bb8> <http://purl.org/dc/terms/contributor> <https://allegrograph.poolparty.biz/user/jans> .
+<https://franz.com/example-taxonomy/lotr-languages/f2da3add-10bf-4adb-b182-0c6e568b16dc> <http://purl.org/dc/terms/contributor> <https://allegrograph.poolparty.biz/user/jans> .
+<https://franz.com/example-taxonomy/lotr-languages/82cb2481-faaf-4f5f-8e1a-3772b805180d> <http://purl.org/dc/terms/contributor> <https://allegrograph.poolparty.biz/user/jans> .
+<https://franz.com/example-taxonomy/lotr-languages/a26c04d0-b58a-4944-8742-a4ba58b00edf> <http://purl.org/dc/terms/contributor> <https://allegrograph.poolparty.biz/user/jans> .
+<https://franz.com/example-taxonomy/lotr-languages/6f563122-6566-4b90-9e75-c6e11a3b85e1> <http://purl.org/dc/terms/contributor> <https://allegrograph.poolparty.biz/user/jans> .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://purl.org/dc/terms/contributor> <https://allegrograph.poolparty.biz/user/jans> .
+<https://franz.com/example-taxonomy/lotr-languages/7602d400-02a1-410d-b008-c93c00018bb9> <http://purl.org/dc/terms/modified> "2023-07-31T20:03:29.744Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> <http://purl.org/dc/terms/modified> "2023-07-31T20:07:38.960Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> <http://purl.org/dc/terms/modified> "2023-07-31T20:07:16.642Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/8589a10e-53e8-4f7a-992a-d5b624e5d596> <http://purl.org/dc/terms/modified> "2023-07-31T20:07:50.300Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/a9f9f3c5-bd75-42ff-bd93-763296540bb8> <http://purl.org/dc/terms/modified> "2023-07-31T20:07:44.810Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/f2da3add-10bf-4adb-b182-0c6e568b16dc> <http://purl.org/dc/terms/modified> "2023-07-31T20:07:33.216Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/82cb2481-faaf-4f5f-8e1a-3772b805180d> <http://purl.org/dc/terms/modified> "2023-07-31T20:07:27.930Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/a26c04d0-b58a-4944-8742-a4ba58b00edf> <http://purl.org/dc/terms/modified> "2023-07-31T20:07:22.808Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/6f563122-6566-4b90-9e75-c6e11a3b85e1> <http://purl.org/dc/terms/modified> "2023-07-31T14:19:31.179Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://purl.org/dc/terms/modified> "2023-07-31T20:07:50.299Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://franz.com/example-taxonomy/lotr-languages/6f563122-6566-4b90-9e75-c6e11a3b85e1> <http://www.w3.org/2004/02/skos/core#altLabel> "Common Tongue"@en .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://www.w3.org/2004/02/skos/core#member> <https://franz.com/example-taxonomy/lotr-languages/7602d400-02a1-410d-b008-c93c00018bb9> .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://www.w3.org/2004/02/skos/core#member> <https://franz.com/example-taxonomy/lotr-languages/0a40cddd-932b-40c1-95ca-06096df43e6f> .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://www.w3.org/2004/02/skos/core#member> <https://franz.com/example-taxonomy/lotr-languages/bc0e54b2-d6f4-4d31-b535-75c46b11d8ab> .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://www.w3.org/2004/02/skos/core#member> <https://franz.com/example-taxonomy/lotr-languages/8589a10e-53e8-4f7a-992a-d5b624e5d596> .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://www.w3.org/2004/02/skos/core#member> <https://franz.com/example-taxonomy/lotr-languages/a9f9f3c5-bd75-42ff-bd93-763296540bb8> .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://www.w3.org/2004/02/skos/core#member> <https://franz.com/example-taxonomy/lotr-languages/f2da3add-10bf-4adb-b182-0c6e568b16dc> .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://www.w3.org/2004/02/skos/core#member> <https://franz.com/example-taxonomy/lotr-languages/82cb2481-faaf-4f5f-8e1a-3772b805180d> .
+<https://franz.com/example-taxonomy/lotr-languages/5aeb87e2-6bfb-488f-a708-07ac23d73bfe> <http://www.w3.org/2004/02/skos/core#member> <https://franz.com/example-taxonomy/lotr-languages/a26c04d0-b58a-4944-8742-a4ba58b00edf> .
