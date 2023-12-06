@@ -31,3 +31,5 @@ jupyter lab
 * [rbac-permissions](rbac-permissions.ipynb). A demo of how to create and manage user and role permissions using the python client.
 
 * [attribute-based-permissions](attribute-based-permissions.ipynb). A demo of the advanced security capabilities of triple attributes.
+
+* [rdf-star-demo](rdf-star-demo.ipynb). A demo showcasing RDF-star and SPARQL-star using AllegroGraph Python.
