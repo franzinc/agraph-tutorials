@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Welcome to the tutorials for AllegroGraph's python client. To run the notebooks we recommed you create a virtual environment using the following commands:
+Welcome to the tutorials for AllegroGraph's python client. If you wish to run the notebooks in a Jupyter Lab environment we recommed you create a virtual environment using the following commands:
 
 ```shell
 conda env create --file environment.yml
@@ -19,6 +19,8 @@ Then to finally launch Jupyter Lab:
 ```shell
 jupyter lab
 ```
+
+If you wish to run the files in Google Colaboratory please follow the instructions provided in the notebooks.
 
 ## Notebooks
 
